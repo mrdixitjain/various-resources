@@ -15,7 +15,7 @@ hackerearth.com
 
 geeksforgeeks.com => for topic specific practice
 
-## this in Javascript
+## "this" in Javascript
 https://www.freecodecamp.org/news/the-complete-guide-to-this-in-javascript/
 
 https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/
@@ -47,4 +47,9 @@ Operating Systems - Internals and Design Principles by William Stallings
 Computer.Networking.A.TopDown.Approach by James F Kurose, Keith W Ross
 
 Cryptography And Network Security by William Stallings
+
+## SOLID design principles
+https://medium.com/bgl-tech/what-are-the-solid-design-principles-c61feff33685 
+
+
 
